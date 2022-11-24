@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+img{
+	width: 100%
+}
+
+.text-justify{
+	text-align: justify
+}
+.azul{
+	color: blue
+}
+.logo{
+	max-width: 170px
+}
+.h1{
+	font-weight: bold
+	
+}
+.h3{
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+.color{
+	color: #DD4E28;
+}
+.precio{
+	color: #FF4527;
+}
+.numero{
+	color: #474747;
+}
+.gris{
+	background-color: #F2F2F2
+}
+.naranja{
+	background-color: #2858dd
+}
+.mail{
+	background-color: #D6D6D6
+}
